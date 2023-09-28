@@ -1,0 +1,13 @@
+names:
+- mask
+- no-mask
+nc: 2
+roboflow:
+  license: Public Domain
+  project: mask-wearing
+  url: https://universe.roboflow.com/joseph-nelson/mask-wearing/dataset/19
+  version: 19
+  workspace: joseph-nelson
+test: C:\Users\pavel\mobneyron\MobileNN\lab3\Mask-Wearing-19/test\images
+train: C:\Users\pavel\mobneyron\MobileNN\lab3\Mask-Wearing-19/train/images
+val: C:\Users\pavel\mobneyron\MobileNN\lab3\Mask-Wearing-19/valid/images
